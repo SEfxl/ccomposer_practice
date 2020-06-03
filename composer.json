@@ -1,0 +1,12 @@
+{
+    "name": "sefxl/demo",
+    "description": "a project for composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "fuxinliang",
+            "email": "fuxinliang@renrenche.com"
+        }
+    ],
+    "require": {}
+}
