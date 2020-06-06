@@ -3,10 +3,14 @@
     "description": "a project for composer",
     "type": "project",
     "version": "1.0.0",
+    "keywords": ["php","custom frame"],
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "fuxinliang",
-            "email": "fuxinliang@renrenche.com"
+            "email": "980348686@qq.com",
+            "homepage": "https://github.com/SEfxl",
+            "role": "Developer"
         }
     ],
 

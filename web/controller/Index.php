@@ -22,7 +22,7 @@ class Index
 
     public function login()
     {
-        //dd($_SESSION); //检查验证码是否写入session
+        //dd($_SESSION); //妫�娴嬫槸鍚﹁缃畇ession
         return $this->view->make('login');
     }
 
