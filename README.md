@@ -1,2 +1,2 @@
-# 学习
-composer study
+# 练习
+composer simple study
