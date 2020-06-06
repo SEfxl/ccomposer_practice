@@ -1,13 +1,15 @@
 {
-    "name": "sefxl/demo",
+    "name": "sefxl/composer_practice",
     "description": "a project for composer",
     "type": "project",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "fuxinliang",
             "email": "fuxinliang@renrenche.com"
         }
     ],
+
     "require": {
         "gregwar/captcha": "^1.1"
     },
